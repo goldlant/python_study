@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iM3X238VQNeoJw0ctBVkSB6xhm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1to100sumexcept3drainage">
+    <configuration name="1to100sumexcept3drainage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1to100sumexcept3drainage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gugudanwhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gugudanwhile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passwordwhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/passwordwhile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle1" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtle1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtlestarwhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtlestarwhile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtlewhile1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtlewhile1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1to100sumexcept3drainage" />
+        <item itemvalue="Python.turtlestarwhile" />
+        <item itemvalue="Python.gugudanwhile" />
+        <item itemvalue="Python.turtlewhile1" />
+        <item itemvalue="Python.passwordwhile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="" />
+      <created>1601703669438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601703669438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="283" key="GridCell.Tab.0.bottom" timestamp="1601711155845">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329966" />
+    <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155845" />
+    <state width="1771" height="283" key="GridCell.Tab.0.center" timestamp="1601711155844">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
+    <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155844" />
+    <state width="1771" height="283" key="GridCell.Tab.0.left" timestamp="1601711155843">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
+    <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155843" />
+    <state width="1771" height="283" key="GridCell.Tab.0.right" timestamp="1601711155845">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329947" />
+    <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155845" />
+    <state width="1771" height="349" key="GridCell.Tab.1.bottom" timestamp="1601710035439">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="349" key="GridCell.Tab.1.bottom/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035439" />
+    <state width="1771" height="349" key="GridCell.Tab.1.center" timestamp="1601710035438">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="349" key="GridCell.Tab.1.center/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
+    <state width="1771" height="349" key="GridCell.Tab.1.left" timestamp="1601710035438">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="349" key="GridCell.Tab.1.left/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
+    <state width="1771" height="349" key="GridCell.Tab.1.right" timestamp="1601710035438">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state width="1771" height="349" key="GridCell.Tab.1.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
+  </component>
+</project>
