@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="" />
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +18,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iM3X238VQNeoJw0ctBVkSB6xhm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
   </component>
   <component name="RecentsManager">
@@ -177,6 +186,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="747" y="445" key="Github.ShareDialog" timestamp="1601874316641">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="747" y="445" key="Github.ShareDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1601874316641" />
+    <state x="657" y="246" key="Github.UntrackedFilesDialog" timestamp="1601874326258">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="657" y="246" key="Github.UntrackedFilesDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1601874326258" />
     <state width="1771" height="283" key="GridCell.Tab.0.bottom" timestamp="1601711155845">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
@@ -213,5 +230,13 @@
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="349" key="GridCell.Tab.1.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601878993067">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601878993067" />
+    <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601874434244">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1037@0.23.1792.1037" timestamp="1601874434244" />
   </component>
 </project>

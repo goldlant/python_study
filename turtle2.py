@@ -8,3 +8,4 @@ n=int(s)
 for i in range(n):
     t.forward(100)
     t.lt(360/n)
+
