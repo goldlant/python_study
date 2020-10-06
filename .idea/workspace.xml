@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +199,30 @@
       <option name="presentableId" value="Default" />
       <updated>1601703669438</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1601964357117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601964357117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="445" key="Github.ShareDialog" timestamp="1601874316641">
@@ -230,10 +269,11 @@
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="349" key="GridCell.Tab.1.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601878993067">
-      <screen x="0" y="23" width="1792" height="1039" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601964416706">
+      <screen x="0" y="23" width="1792" height="1041" />
     </state>
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601878993067" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1041@0.23.1792.1041" timestamp="1601964416706" />
     <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601874434244">
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
