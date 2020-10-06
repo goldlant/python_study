@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="interlock local and remote storaged">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +181,20 @@
       <option name="presentableId" value="Default" />
       <updated>1601703669438</updated>
     </task>
+    <task id="LOCAL-00001" summary="interlock loacal and remote storage">
+      <created>1601879083575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601879083575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="interlock loacal and remote" />
+    <MESSAGE value="interlock loacal and remote storage" />
+    <option name="LAST_COMMIT_MESSAGE" value="interlock loacal and remote storage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="445" key="Github.ShareDialog" timestamp="1601874316641">
@@ -194,26 +205,26 @@
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
     <state x="657" y="246" key="Github.UntrackedFilesDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1601874326258" />
-    <state width="1771" height="283" key="GridCell.Tab.0.bottom" timestamp="1601711155845">
+    <state width="1771" height="283" key="GridCell.Tab.0.bottom" timestamp="1601879198915">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329966" />
-    <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155845" />
-    <state width="1771" height="283" key="GridCell.Tab.0.center" timestamp="1601711155844">
+    <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
+    <state width="1771" height="283" key="GridCell.Tab.0.center" timestamp="1601879198915">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
-    <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155844" />
-    <state width="1771" height="283" key="GridCell.Tab.0.left" timestamp="1601711155843">
+    <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
+    <state width="1771" height="283" key="GridCell.Tab.0.left" timestamp="1601879198914">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
-    <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155843" />
-    <state width="1771" height="283" key="GridCell.Tab.0.right" timestamp="1601711155845">
+    <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198914" />
+    <state width="1771" height="283" key="GridCell.Tab.0.right" timestamp="1601879198915">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329947" />
-    <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601711155845" />
+    <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
     <state width="1771" height="349" key="GridCell.Tab.1.bottom" timestamp="1601710035439">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
@@ -230,13 +241,17 @@
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="349" key="GridCell.Tab.1.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601878993067">
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601879303909">
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601878993067" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601879303909" />
     <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601874434244">
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
     <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1037@0.23.1792.1037" timestamp="1601874434244" />
+    <state x="677" y="437" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601963867248">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state x="677" y="437" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1601963867248" />
   </component>
 </project>
