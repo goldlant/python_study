@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle2.py" afterDir="false" />
-    </list>
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +199,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="747" y="445" key="Github.ShareDialog" timestamp="1601874316641">
       <screen x="0" y="23" width="1792" height="1037" />
@@ -230,10 +256,11 @@
       <screen x="0" y="23" width="1792" height="1039" />
     </state>
     <state width="1771" height="349" key="GridCell.Tab.1.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601710035438" />
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601878993067">
-      <screen x="0" y="23" width="1792" height="1039" />
+    <state x="496" y="282" key="Vcs.Push.Dialog.v2" timestamp="1601965288604">
+      <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601878993067" />
+    <state x="496" y="282" key="Vcs.Push.Dialog.v2/0.23.1792.1042@0.23.1792.1042" timestamp="1601965288604" />
     <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601874434244">
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
