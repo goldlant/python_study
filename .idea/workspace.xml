@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/DictionarySort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListProduceReset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listpractice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listpractice2.py" afterDir="false" />
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="Python 6week">
+      <change afterPath="$PROJECT_DIR$/report_202011231_박준하.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DictionarySort">
+  <component name="RunManager" selected="Python.report_202011231_박준하">
     <configuration name="DictionarySort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,27 +118,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listpractice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listpractice1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="listpractice2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +131,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listpractice2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="report_202011231_박준하" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report_202011231_박준하.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.report_202011231_박준하" />
         <item itemvalue="Python.DictionarySort" />
         <item itemvalue="Python.ListFunction" />
         <item itemvalue="Python.ListProduceReset" />
         <item itemvalue="Python.listpractice2" />
-        <item itemvalue="Python.listpractice1" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601964619545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python 6week">
+      <created>1602076710165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602076710165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +240,8 @@
     <MESSAGE value="interlock loacal and remote" />
     <MESSAGE value="interlock loacal and remote storage" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Python 6week" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 6week" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="445" key="Github.ShareDialog" timestamp="1601874316641">
@@ -248,38 +252,42 @@
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
     <state x="657" y="246" key="Github.UntrackedFilesDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1601874326258" />
-    <state width="885" height="278" key="GridCell.Tab.0.bottom" timestamp="1602075749550">
-      <screen x="0" y="23" width="1792" height="1043" />
+    <state width="885" height="278" key="GridCell.Tab.0.bottom" timestamp="1602487649067">
+      <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329966" />
     <state width="1771" height="349" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1601975170636" />
     <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
     <state width="1771" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1601966592995" />
-    <state width="885" height="278" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1602075749550" />
-    <state width="885" height="278" key="GridCell.Tab.0.center" timestamp="1602075749537">
-      <screen x="0" y="23" width="1792" height="1043" />
+    <state width="885" height="278" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1602487649067" />
+    <state width="885" height="278" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1602125445543" />
+    <state width="885" height="278" key="GridCell.Tab.0.center" timestamp="1602487649067">
+      <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
     <state width="1771" height="349" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1601975170635" />
     <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
     <state width="1771" height="283" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1601966592995" />
-    <state width="885" height="278" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1602075749537" />
-    <state width="885" height="278" key="GridCell.Tab.0.left" timestamp="1602075749536">
-      <screen x="0" y="23" width="1792" height="1043" />
+    <state width="885" height="278" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1602487649067" />
+    <state width="885" height="278" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1602125445543" />
+    <state width="885" height="278" key="GridCell.Tab.0.left" timestamp="1602487649066">
+      <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329946" />
     <state width="1771" height="349" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1601975170635" />
     <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198914" />
     <state width="1771" height="283" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1601966592995" />
-    <state width="885" height="278" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1602075749536" />
-    <state width="885" height="278" key="GridCell.Tab.0.right" timestamp="1602075749538">
-      <screen x="0" y="23" width="1792" height="1043" />
+    <state width="885" height="278" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1602487649066" />
+    <state width="885" height="278" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1602125445542" />
+    <state width="885" height="278" key="GridCell.Tab.0.right" timestamp="1602487649067">
+      <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1601709329947" />
     <state width="1771" height="349" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1601975170635" />
     <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1039@0.23.1792.1039" timestamp="1601879198915" />
     <state width="1771" height="283" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1601966592995" />
-    <state width="885" height="278" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1602075749538" />
+    <state width="885" height="278" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1602487649067" />
+    <state width="885" height="278" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1602125445543" />
     <state width="1771" height="349" key="GridCell.Tab.1.bottom" timestamp="1601975170637">
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
@@ -304,11 +312,12 @@
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
     <state x="637" y="255" key="RollbackChangesDialog/0.23.1792.1043@0.23.1792.1043" timestamp="1602070588532" />
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1601964630668">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1602076727854">
+      <screen x="0" y="23" width="1792" height="1043" />
     </state>
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601879303909" />
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1041@0.23.1792.1041" timestamp="1601964630668" />
+    <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1043@0.23.1792.1043" timestamp="1602076727854" />
     <state x="694" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601874434244">
       <screen x="0" y="23" width="1792" height="1037" />
     </state>
