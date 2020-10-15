@@ -14,12 +14,12 @@ t.penup()
 t.goto(0,0)
 t.pendown()
 
-for i in range(6):
-    t.fd(50)
-    t.lt(360/6)
+for i in range(4):
+    t.fd(90)
+    t.lt(360/4)
 
 t.penup()
-t.goto(-70,130)
+t.goto(-50,130)
 t.pendown()
 
 t.circle(50)
