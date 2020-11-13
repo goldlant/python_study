@@ -19,14 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="StringStudy">
-      <change afterPath="$PROJECT_DIR$/LottoLotteryProgram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIndowButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowCheckButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowLable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowLableImage.py" afterDir="false" />
+    <list default="true" id="0ba6065e-a85b-445f-846f-5bef1a9a356d" name="Default Changelist" comment="window programming">
+      <change afterPath="$PROJECT_DIR$/EncryptionProgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilePrintProgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextFileCopyProgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextFileReadLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextFileWriteLine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIndowButton.py" beforeDir="false" afterPath="$PROJECT_DIR$/WIndowButton.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602741370878</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="window programming">
+      <created>1604404785758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604404785758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +269,8 @@
     <MESSAGE value="Python 6week" />
     <MESSAGE value="add report" />
     <MESSAGE value="StringStudy" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringStudy" />
+    <MESSAGE value="window programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="window programming" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="372" key="#Notifications" timestamp="1603527568696">
@@ -358,13 +366,14 @@
     </state>
     <state x="637" y="254" key="RollbackChangesDialog/0.23.1792.1039@0.23.1792.1039" timestamp="1602646121991" />
     <state x="637" y="255" key="RollbackChangesDialog/0.23.1792.1043@0.23.1792.1043" timestamp="1602070588532" />
-    <state x="496" y="281" key="Vcs.Push.Dialog.v2" timestamp="1602741388590">
-      <screen x="0" y="23" width="1792" height="1041" />
+    <state x="496" y="282" key="Vcs.Push.Dialog.v2" timestamp="1604404800044">
+      <screen x="0" y="23" width="1792" height="1047" />
     </state>
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1039@0.23.1792.1039" timestamp="1601879303909" />
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1041@0.23.1792.1041" timestamp="1602741388590" />
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1042@0.23.1792.1042" timestamp="1602487948509" />
     <state x="496" y="281" key="Vcs.Push.Dialog.v2/0.23.1792.1043@0.23.1792.1043" timestamp="1602076727854" />
+    <state x="496" y="282" key="Vcs.Push.Dialog.v2/0.23.1792.1047@0.23.1792.1047" timestamp="1604404800044" />
     <state x="694" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603526186527">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
