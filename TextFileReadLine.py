@@ -4,7 +4,6 @@ inStr, inList = "",[]
 inFp=open("C:/Temp/data1.txt","r")
 
 
-
 #파일의 내용을 한 행씩 출력
 inList=inFp.readlines()
 for inStr in inList:
