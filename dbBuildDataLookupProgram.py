@@ -13,7 +13,7 @@ print("사용자 ID   사용자 이름    이메일    출생년")
 print("-----------------------------------")
 
 while(True):
-    row = cur.fetchone() #한줄씩 처
+    row = cur.fetchone() #한줄씩 처리
     if row == None:
         break
     data1=row[0]

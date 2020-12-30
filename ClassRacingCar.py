@@ -1,6 +1,6 @@
 import time
 import threading
-#클래스 선
+#클래스 선언 
 class RacingCar:
     carName=""
     def __init__(self,name):
@@ -10,6 +10,8 @@ class RacingCar:
             carStr=self.carName+"~~달립니다~~\n"
             print(carStr,end="")
             time.sleep(0.7)
+
+
 #메인코드
 car1=RacingCar("벤츠")
 car2=RacingCar("아우")
