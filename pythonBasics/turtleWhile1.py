@@ -1,6 +1,5 @@
 import turtle
 
-
 t=turtle.Turtle()
 i=0
 
