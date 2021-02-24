@@ -1,8 +1,6 @@
 import turtle
 t=turtle.Turtle()
 
-
-
 for count in range(3):
     t.fd(100)
     t.lt(120)
